@@ -1,0 +1,30 @@
+.bg-black{
+    background-color:#051D35;
+}
+.text-white{
+    color:white;
+}
+.bg-nav{
+    background-color: #1768FC;
+}
+.mx-10{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bg-body{
+    background-color: #5D7095;
+}
+.candidate_photo{
+    width:80px;
+    height:80px;
+    border:1px solid 67C232;
+    border-radius: 100%;
+
+}
+.main{
+    display:flex;
+    
+}
+.main2{
+    margin-top:100px;
+}
